@@ -143,9 +143,14 @@ crawler/article.xlsx
 crawler/images/
 article.xlsx
 
-# ai 폴더 
-ai/article.xlsx
-ai/keywords.xlsx
+# emotion 폴더 
+emotion/article.xlsx
+emotion/keywords.xlsx
+emotion/*.xlsx
+emotion/mlptkey
+
+# front
+frontend/node_modules
 
 # music recommend
 recommend/Data
