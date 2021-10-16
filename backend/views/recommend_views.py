@@ -42,7 +42,7 @@ async def recommend_music_random_5(
     read_one_page = music_recommend.return_pageInfo_in_pdObject(diaryId, pageId)
     
     # 2. sementic analysis request
-    sementic_URL = 'http://13.125.248.60:8999/emotion'
+    sementic_URL = 'http://8a59-42-82-239-228.ngrok.io:8999/emotion'
     data = {
         "writing" : read_one_page.iloc[0]['pageContent'] 
     }
@@ -83,7 +83,7 @@ async def recommend_music_just_giveMeText(
     music_origin = music_recommend.return_musics_in_pdObject()
     
     # 2. sementic analysis request
-    sementic_URL = 'http://13.125.248.60:8999/emotion'
+    sementic_URL = 'http://8a59-42-82-239-228.ngrok.io:8999/emotion'
     data = {
         "writing" : item.writing
     }
