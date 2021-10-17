@@ -8,7 +8,6 @@
 <img width="80%" src="https://user-images.githubusercontent.com/37919421/137606585-b5771e0b-1fda-44fa-b1fa-46588e160b96.png"/>
 
 # How actually our service works!
-<img width="80%" src="https://user-images.githubusercontent.com/37919421/137606329-194be27c-e40d-4142-99a5-24fb2835d10f.png"/>
 ![how this works](https://user-images.githubusercontent.com/37919421/137607023-21c010f1-127e-461b-9db3-23b987fa1ec3.gif)
 
 
