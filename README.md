@@ -1,7 +1,7 @@
-1. 아이디 : bun95
-2. 비밀번호 : 1q2w3e4r5t!
+# Architectures
+![what we used](https://user-images.githubusercontent.com/37919421/137606239-e71ed2b1-6f36-42aa-bb62-021fde02251f.png)
 
-
+# APIs
 [API_명세서.pdf](https://github.com/Seungyeup/Recommender/files/7358467/API_.pdf)
 
 # Server Urls 
