@@ -3,8 +3,6 @@
 
 # Architectures
 <img width="80%" src="https://user-images.githubusercontent.com/37919421/137606239-e71ed2b1-6f36-42aa-bb62-021fde02251f.png"/>
-
-# What I did
 <img width="80%" src="https://user-images.githubusercontent.com/37919421/137606585-b5771e0b-1fda-44fa-b1fa-46588e160b96.png"/>
 
 # How actually our service works!
