@@ -1,3 +1,6 @@
+# Our goal
+![our goal](https://user-images.githubusercontent.com/37919421/137606329-194be27c-e40d-4142-99a5-24fb2835d10f.png)
+
 # Architectures
 ![what we used](https://user-images.githubusercontent.com/37919421/137606239-e71ed2b1-6f36-42aa-bb62-021fde02251f.png)
 
