@@ -30,6 +30,6 @@
 8. 일기 삭제
     1. 일기가 한장일 때 삭제하면 "일기 작성하시겠습니까?"페이지로 전환
 # Server Urls 
-### Semetric Server URL : http://8a59-42-82-239-228.ngrok.io/emotion
-if you send json { "writing" : "감정 분석하고자 하는 글"} -> this link will return 0 | 1 | 2  (중립,긍정,부정)
-### Backend Server API : http://52.79.40.167:9000/docs#/default
+- Semetric Server URL : http://8a59-42-82-239-228.ngrok.io/emotion
+    - if you send json { "writing" : "감정 분석하고자 하는 글"} -> this link will return 0 | 1 | 2  (중립,긍정,부정)
+- Backend Server API : http://52.79.40.167:9000/docs#/default
