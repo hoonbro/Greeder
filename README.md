@@ -20,7 +20,25 @@
 
 ## 3. 프로젝트 동작 영상
 
-![how this works](https://user-images.githubusercontent.com/37919421/137607023-21c010f1-127e-461b-9db3-23b987fa1ec3.gif)
+### 1) 회원가입 및 로그인
+![1 회원가입 및 로그인](https://user-images.githubusercontent.com/66583397/171165800-b5d190a5-d465-4168-a56f-7e98bb7d124a.gif)
+
+### 2) 회원정보 수정
+![2 회원정보 수정](https://user-images.githubusercontent.com/66583397/171166041-2bd9f059-b8ed-4be7-9609-4c3e8a183fbf.gif)
+
+### 3) 다이어리
+![3 다이어리](https://user-images.githubusercontent.com/66583397/171166020-d4e50f76-b795-42ce-bd03-07f5bd23bfdc.gif)
+
+### 4) 일기 작성1
+![4 일기 작성](https://user-images.githubusercontent.com/66583397/171166054-35ce9a2c-df45-4f57-82d7-75563287c2a3.gif)
+
+### 5) 일기 수정 및 일기 작성2
+![5 일기 수정 및 일기 작성](https://user-images.githubusercontent.com/66583397/171167322-a78d549c-3a80-4669-a1a2-d1ebafbf72eb.gif)
+
+### 6) 일기 목록
+![6  전체 일기 및 일기 목록](https://user-images.githubusercontent.com/66583397/171165859-c838a04a-f2f4-439d-ac4e-ffffab39fd26.gif)
+
+
 
 
 <!-- # APIs and server urls still alive...;;
