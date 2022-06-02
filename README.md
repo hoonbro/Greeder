@@ -30,7 +30,7 @@
 ![3 다이어리](https://user-images.githubusercontent.com/66583397/171166020-d4e50f76-b795-42ce-bd03-07f5bd23bfdc.gif)
 
 ### 4) 일기 작성1
-![4 일기 작성](https://user-images.githubusercontent.com/66583397/171166054-35ce9a2c-df45-4f57-82d7-75563287c2a3.gif)
+![4 일기 작성](https://user-images.githubusercontent.com/66583397/171166054-35ce9a2c-df45-4f57-82d7-75563287c2a3.gif) 
 
 ### 5) 일기 수정 및 일기 작성2
 ![5 일기 수정 및 일기 작성](https://user-images.githubusercontent.com/66583397/171167322-a78d549c-3a80-4669-a1a2-d1ebafbf72eb.gif)
